@@ -1,5 +1,8 @@
 package oopExam;
 
 public class AppleWatchSeries5 {
-	// create a method
+	
+	public void appleWatchSeris() {
+		System.out.println("This void type method from regular class AppleWatchSeries5");
+	}
 }

@@ -1,5 +1,7 @@
 package oopExam;
 
 public class LandPhone {
-	//create a method
+	public int landphone() {
+		return 0;
+	}
 }
